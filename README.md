@@ -3,9 +3,7 @@
 Dive into Real-World Projects: This project is a functional clone of Amazon, designed to provide hands-on experience in fullstack development, 
 integrating front-end and back-end technologies. Build real-world apps with authentication, payments, and dynamic product management.
 
-# demo :
-
-# Frontend:
+# Amazon clone : https://emran-amazon-clone.netlify.app
 
 # 📖_Project_Description
 
